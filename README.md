@@ -7,8 +7,7 @@ ScrollFeed is a project based on the Flutter framework.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 ScrollFeed is a [brief description of what the project does]. It is built using the Flutter framework, which allows for the creation of beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
